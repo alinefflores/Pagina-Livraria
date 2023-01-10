@@ -1,6 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,500;0,700;1,400&display=swap');
 
-:root {
+:root { 
   --bg-color: #ffffff;
   --button-color: #326589;
   --text-title-color: #fc6621;
@@ -27,7 +27,7 @@ body {
 }
 
 .banner {
-  background-image: url('/imagens/Banner-1.png');
+  background-image: url('../img/Banner-1.png');
   background-repeat: no-repeat;
   background-size: cover;
   height: 278px;
