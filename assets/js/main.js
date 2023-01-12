@@ -4,8 +4,6 @@ const endpointDaAPI = 'https://guilhermeonrails.github.io/casadocodigo/livros.js
 
 getBuscarLivrosDaApi()
 
-const elementoParaInserirLivros = document.getElementById('livros')
-
 async function getBuscarLivrosDaApi() {
     const res = await fetch (endpointDaAPI)
     livros = await res.json()
