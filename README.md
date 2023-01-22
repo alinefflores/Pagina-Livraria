@@ -1,7 +1,7 @@
 # <h1>Página Livraria</h1>
 <p>Projeto de uma página e-commerce de uma livraria, com a exibição dos livros, filtros e ordenação. Com HTML, CSS e JavaScript</p>
 
-![image](https://user-images.githubusercontent.com/115930506/213916827-2b9eadcb-299b-41c6-88be-3077b0bfdf6c.png)
+![image](https://user-images.githubusercontent.com/115930506/213919704-5780cd7e-a847-4f20-8e74-92363eb7ef66.png)
 
 <h2>Técnicas e Tecnologias</h2>
 <ul>
