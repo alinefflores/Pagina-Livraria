@@ -11,34 +11,35 @@
 }
 
 body {
-  font-family: 'Poppins';
-}
-
-.wrap {
-  width: 1280px;
-  margin: 0 auto;
-}
-
-.header {
-  text-align: center;
-  width: 100%;
-  background-color: var(--bg-color);
-  margin: 15px 15px;
+  font-family: 'Poppins';  
 }
 
 .banner {
-  background-image: url('../img/Banner-1.png');
-  background-repeat: no-repeat;
-  background-size: cover;
-  height: 278px;
+  background: linear-gradient(96.48deg, #002f52 36.3%, #326589 99.56%);
+  color: var(--bg-color);
+  height: 150px; 
+  width: 100%;  
+  
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
-.nav {
+.banner h1 {
+  font-size: 30px; 
+}
+
+.wrap {
   display: flex;
-  justify-content: space-between;
-  align-items: center;
-  height: 30px;
-  margin: 4rem 0;
+  justify-content: space-around;
+  flex-wrap: wrap;
+}
+
+.lista {
+  display: flex; 
+  flex-wrap: wrap; 
+  justify-content: space-around;
+  margin: 4rem 2rem;
 }
 
 .btn {
@@ -49,6 +50,7 @@ body {
   text-decoration: none;
   color: #fff;
   padding: 10px 16px;
+  margin: 10px 30px;
   border-radius: 8px;
   font-size: 0.9rem;
   font-family: 'Poppins';
@@ -64,15 +66,16 @@ body {
 
 .livros {
   display: flex;
-  justify-content: space-between;
+  justify-content: space-around;
   flex-wrap: wrap;
+  margin: 20px 20px;
 }
 
 .livro {
   width: 302px;
   display: flex;
   flex-direction: column;
-  justify-content: space-between;
+  justify-content: space-around;
   height: 644px;
   margin-bottom: 1rem;
 }
