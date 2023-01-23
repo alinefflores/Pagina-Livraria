@@ -8,5 +8,5 @@
   <li>API para disponibilização dos dados</li>
   <li>Manipulação de elementos com o DOM</li>
   <li>Principais métodos de array do JavaScript</li>
-  <li>Layout responsivo</li>
+  <li>Layout Responsivo</li>
 </ul>
