@@ -6,9 +6,8 @@
 
 <h2>Técnicas e Tecnologias</h2>
 <ul>
-  <li>API para disponibilização dos dados</li>
+  <li>API para disponibilização dos dados, do curso da Alura</li>
   <li>Manipulação de elementos com o DOM</li>
   <li>Principais métodos de array do JavaScript</li>
-  <li>Layout Responsivo</li>
-  <li>Imagens disponibilizadas pelo curso da Alura.</li> 
+  <li>Layout Responsivo</li>  
 </ul>
